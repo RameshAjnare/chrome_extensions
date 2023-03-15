@@ -1,0 +1,16 @@
+{
+    "name":"Node JS Team Work",
+    "description":"Advance node js question..",
+    "version":"1.0.0",
+    "manifest_version": 3,
+    "permissions":[
+                   "activeTab",
+                   "scripting"
+                ],
+                "icons":{"128":"node.png"},
+    "action" : {
+        "default_popup":"popUp.html",
+        "default_icon":"node.png"
+    }
+
+}
